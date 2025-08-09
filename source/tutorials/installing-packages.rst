@@ -1,4 +1,4 @@
-.. _installing-packages:
+chess.. _installing-packages:
 
 ===================
 Installing Packages
